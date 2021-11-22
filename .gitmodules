@@ -1,6 +1,3 @@
-[submodule "TEL"]
-	path = TEL
-	url = https://github.com/Tarcadia/Telnet-Extend-Lib.git
-[submodule "CLI"]
-	path = CLI
-	url = https://github.com/Tarcadia/CLI-Lib-for-Interaction.git
+[submodule "OLD"]
+	path = OLD
+	url = https://github.com/Tarcadia/Old-Linkage-Dev.git
